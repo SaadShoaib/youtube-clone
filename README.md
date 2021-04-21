@@ -1,3 +1,7 @@
+# About The Project
+This is a tutorial I followed to create a clone of youtube. There is no backend, only the UI- which is created in React.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
